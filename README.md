@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-  - `chapters/prerequisites.md`
-  - `chapters/hello.md`
+  - [Prerequisites](/chapters/prerequisites.md)
+  - [Decomposing Hello World](chapters/hello.md)
 
 ## License
 
